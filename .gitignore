@@ -1,0 +1,8 @@
+.vs
+Library
+Logs
+obj
+Temp
+UserSettings
+Packages/com.singularitygroup.hotreload
+SingularityGroup.*
