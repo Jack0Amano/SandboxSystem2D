@@ -20,3 +20,9 @@ Provides powerful functionality for creating runtimes for the following look-dow
 - Issue a block ID list to save the map
 
 <!-- CREATED_BY_LEADYOU_README_GENERATOR -->
+
+# Licence
+Copyright Saki Ito   
+Released under the MIT license   
+https://github.com/Jack0Amano/SandboxSystem2D   
+Date: 2025-01-27   
